@@ -1,0 +1,8 @@
+拉取远程仓库到本地错误The authenticity of host 'github.com (13.229.188.59)' can't be established.
+
+  198   ls -al ~/.ssh
+  199  ssh-keygen -t rsa -C "1663288225@qq.com"
+  200  cat ~/.ssh/id_rsa.pub
+  201  git push -u origin master
+
+https://blog.csdn.net/csdn_pfyang/article/details/104108438
